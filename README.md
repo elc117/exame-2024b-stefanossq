@@ -5,6 +5,16 @@ Curso: Sistemas de informação
 
 O objetivo é entregar melhorias no jogo e/ou no código, garantindo que o projeto esteja refinado e funcional.
 
+## Como Rodar:
+No VSCODE por exemplo: 
+
+cd colonia-game
+./gradlew desktop:run 
+
+Online:
+
+Link do itch.io : https://stefanossq.itch.io/exame-paradigmas
+
 ## Reorganização das Battlescreens
 
 > No projeto original (https://github.com/elc117/game-2023b-coloniarpg) já tinha duas classes que compartilhavam de propriedades semelhantes mas eram separadas, na minha entrega eu criei mais duas, essas classes foram reduzidas pra GenericBattleScreen.java e BattleState.java :
